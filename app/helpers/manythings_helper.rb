@@ -1,0 +1,2 @@
+module ManythingsHelper
+end
